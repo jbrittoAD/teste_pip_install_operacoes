@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="operacoes",
+    name="cookiecutter",
     version="0.11",
     py_modules=["cookiecutter"],
     description="Pacote para operacoes aritmeticas basicas",
