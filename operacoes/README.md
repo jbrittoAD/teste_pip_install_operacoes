@@ -1,3 +1,3 @@
-# Operações
+# Operacoes
 
-Pacote para operações aritméticas básicas.
+Pacote para operacoes aritmeticas basicas.

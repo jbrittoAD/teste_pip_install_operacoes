@@ -1,3 +1,5 @@
+import numpy as np
+
 class Operacoes:
     def __init__(self, valor_inicial=0):
         self.valor = valor_inicial
@@ -10,3 +12,6 @@ class Operacoes:
 
     def subtracao(self, valor):
         return self.valor - valor
+
+    def soma_com_numpy(self, valor):
+        return np.add(self.valor, valor)
