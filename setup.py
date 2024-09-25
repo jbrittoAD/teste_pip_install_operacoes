@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name="cookiecutter",
@@ -7,7 +7,7 @@ setup(
     description="Pacote para operacoes aritmeticas basicas",
     author="Britto",
     author_email="jbritto@universo.univates.br",
-    url="https://github.com/jbrittoAD/teste_pip_install_operacoes/tree/main/operacoes",
+    url="https://github.com/jbrittoAD/teste_pip_install_operacoes",
     install_requires=[
         "numpy",
     ],
