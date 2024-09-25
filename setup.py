@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name="operacoes",
-    version="0.1",
-    py_modules=["operacoes"],
+    version="0.11",
+    py_modules=["cookiecutter"],
     description="Pacote para operacoes aritmeticas basicas",
     author="Britto",
     author_email="jbritto@universo.univates.br",
