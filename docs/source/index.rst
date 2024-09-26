@@ -3,7 +3,7 @@
 Welcome to cookiecutter's documentation!
 =========================================
 
-.. automodule:: aritmeticas.operacoes
+.. automodule:: cookiecutter.aritmeticas
     :members:
 
 Indices and tables
